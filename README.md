@@ -1,4 +1,4 @@
-# atd-data-utils-socrata (socratautil)
+# atd-data-utils-kits (kitsuitl)
 Python utilities for interacting with KITS, an advanced transportation management application
 
 ## Installation
